@@ -1,0 +1,62 @@
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe.config
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.pdb
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.xml
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_MainMenu_A177016.resources
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.Resources.resources
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbproj.GenerateResource.cache
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbproj.CoreCompileInputs.cache
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.xml
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.pdb
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbprojAssemblyReference.cache
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Customer_A177016.resources
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_OrderDetails_A177016.resources
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Product_A177016.resources
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Order_A177016.resources
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Staff_A177016.resources
+D:\DataBase Assingment 2020 Semm\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.AboutChrono.resources
+D:\A177016_CHRONO\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe.config
+D:\A177016_CHRONO\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe
+D:\A177016_CHRONO\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.pdb
+D:\A177016_CHRONO\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.xml
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbprojAssemblyReference.cache
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Customer_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_MainMenu_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Order_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Product_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Staff_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.Resources.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbproj.GenerateResource.cache
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbproj.CoreCompileInputs.cache
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.xml
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.pdb
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Catalog_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Order_Details_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Customer_Management_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Product_Management_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Staff_Management_A177016.resources
+D:\A177016_CHRONO\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_splashScreen_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe.config
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.pdb
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\bin\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.xml
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbprojAssemblyReference.cache
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Customer_Management_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Product_Management_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_splashScreen_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Staff_Management_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Catalog_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Customer_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_MainMenu_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Order_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Order_Details_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_product_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.frm_Staff_A177016.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.Resources.resources
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbproj.GenerateResource.cache
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.vbproj.CoreCompileInputs.cache
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.exe
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.xml
+D:\A177016_assingment3\A177016_CHRONO_SOURCECODE\obj\Debug\prj_Luxurious Time Piece Collection(Swiss Edition)_A177016.pdb

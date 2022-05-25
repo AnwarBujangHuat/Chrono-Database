@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prj_Luxurious Time Piece Collection(Swiss Edition)_A177016
+</name>
+</assembly>
+<members>
+<member name="T:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.AboutChrono">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.AddWatch_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.canva5_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.cart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.png_clipart_youtube_tutorial_google_play_chrono_trigger_youtube_game_logo_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.right">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.right_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_Luxurious_Time_Piece_Collection_Swiss_Edition__A177016.My.Resources.Resources.Untitled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
